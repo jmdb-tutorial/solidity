@@ -85,6 +85,8 @@ truffle(ganache)> var count = await instance.getCount()
 undefined
 truffle(ganache)> count.toNumber()
 1
+
+.exit
 ```
 
 Congratulations! You just coded your first solidity contract!
