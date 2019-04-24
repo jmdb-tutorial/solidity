@@ -1,4 +1,4 @@
-# Hello World in Ethereum in 5 mins
+# Simplest Solidity Contract in 5 mins
 
 This is about as simple an example as you can get and should work in 5-10 mins for you!
 
