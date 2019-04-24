@@ -29,7 +29,7 @@ Should do the trick for this
 
 ## Installation - OSX
 
-You need two things, Truffle and Ganache.
+You need two things, [Truffle](https://truffleframework.com/truffle) and [Ganache](https://truffleframework.com/ganache).
 
 Truffle is a framework that makes it easy to compile, test and deploy solidity smart contracts.
 
