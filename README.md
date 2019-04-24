@@ -53,6 +53,11 @@ This repo already has a simple smart contract in it so just clone it to your mac
 Once you have ganache up and running
 
 ```
+mkdir jmdb-tutorial
+cd jmdbtutorial
+git clone git@github.com:jmdb-tutorial/solidity.git
+cd solidity
+open -a /Applications/Ganache.app/
 truffle compile
 truffle migrate
 ```
